@@ -1,6 +1,6 @@
-## Foundry
+## Account Abstraction
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+**This project implements an advanced account abstraction contract leveraging paymasters to allow gas payments for their users or using ERC20 tokens instead of the native blockchain currency. The contract is designed to work seamlessly with a bundler to aggregate and manage transactions.**
 
 Foundry consists of:
 
