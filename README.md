@@ -46,7 +46,7 @@ $ forge fmt
 $ forge snapshot
 ```
 
-### Anvil
+### Anvil for local Testing Account
 
 ```shell
 $ anvil
