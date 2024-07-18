@@ -55,7 +55,7 @@ $ anvil
 ### Deploy
 
 ```shell
-$ $ forge create --constructor-args <entryPoint_contract_address_for_your_network> --rpc-url <your_rpc_url> --private-key <your_private_key> src/Ethereum/AccountAbstraction.sol:AccountAbstraction
+$ forge create --constructor-args <entryPoint_contract_address_for_your_network> --rpc-url <your_rpc_url> --private-key <your_private_key> src/Ethereum/AccountAbstraction.sol:AccountAbstraction
 ```
 
 ## Contribution
